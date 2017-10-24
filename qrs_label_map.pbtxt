@@ -1,0 +1,84 @@
+item {
+  id: 1
+  name: 'MLII_N'
+}
+item {
+  id: 2
+  name: 'V1_N'
+}
+item {
+  id: 3
+  name: 'V1_L'
+}
+item {
+  id: 4
+  name: 'MLII_L'
+}
+item {
+  id: 5
+  name: 'MLII_R'
+}
+item {
+  id: 6
+  name: 'MLII_V'
+}
+item {
+  id: 7
+  name: 'V1_V'
+}
+item {
+  id: 8
+  name: 'V5_N'
+}
+item {
+  id: 9
+  name: 'V1_R'
+}
+item {
+  id: 10
+  name: 'V2_N'
+}
+item {
+  id: 11
+  name: 'V1_C'
+}
+item {
+  id: 12
+  name: 'MLII_C'
+}
+item {
+  id: 13
+  name: 'V5_C'
+}
+item {
+  id: 14
+  name: 'V2_C'
+}
+item {
+  id: 15
+  name: 'MLII_A'
+}
+item {
+  id: 16
+  name: 'V1_A'
+}
+item {
+  id: 17
+  name: 'V4_R'
+}
+item {
+  id: 18
+  name: 'MLII_F'
+}
+item {
+  id: 19
+  name: 'V1_F'
+}
+item {
+  id: 20
+  name: 'V5_f'
+}
+item {
+  id: 21
+  name: 'V2_f'
+}
